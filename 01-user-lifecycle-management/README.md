@@ -1,4 +1,4 @@
-Lab 1 — Okta User Lifecycle Management
+# Lab 1 — Okta User Lifecycle & Profile Management
 
 Objective
 Create and manage user accounts in Okta to simulate identity lifecycle processes including user creation, password reset, deactivation, and audit logging.
