@@ -62,7 +62,7 @@ Screenshot:
 
 ---
 
-## Step 5 — Add Custom Attribute (Hire Date)
+## Step 5 — Add Custom Attribute (Faisal Abdi)
 Go to:  
 Directory → Profile Editor → Okta User (Profile) → Add Attribute  
 
