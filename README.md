@@ -1,25 +1,63 @@
 # Okta IAM Labs
 
-Hands-on Okta Identity and Access Management (IAM) labs covering:
+Hands-on Identity and Access Management (IAM) labs using Okta Admin Console.
 
-- User Lifecycle Management  
-- Group-Based Access Control (RBAC)  
-- Multi-Factor Authentication (MFA)  
-- Single Sign-On (SSO)  
-- Identity Security and Monitoring  
-
-These labs demonstrate real-world IAM scenarios using Okta Admin Console.
+This repository demonstrates real-world IAM scenarios including user lifecycle management, access control, and identity troubleshooting.
 
 ---
 
 ## 📂 Labs
 
-- Lab 1 — User Lifecycle Management  
+### 🔹 Lab 1 — User Lifecycle Management
+- Create and manage users
+- Perform password resets
+- Deactivate and reactivate accounts
+- Monitor activity using System Logs
+- Add and manage custom attributes
+- Troubleshoot user sign-in issues
 
-More labs coming soon.
+👉 [View Lab 1](./01-user-lifecycle-management)
+
+---
+
+### 🔹 Lab 2 — Group-Based Access Control (RBAC)
+- Create and manage groups
+- Add users to groups
+- Assign groups to applications
+- Implement role-based access control
+- Validate group-based permissions
+
+👉 [View Lab 2](./02-group-access-management)
+
+---
+
+## 🛠 Skills Demonstrated
+
+- Identity Lifecycle Management  
+- Role-Based Access Control (RBAC)  
+- Okta System Log Analysis  
+- User Provisioning & Deprovisioning  
+- Access Troubleshooting  
+- IAM Support Workflows  
 
 ---
 
 ## 🎯 Purpose
 
-This repository is designed to showcase practical IAM skills aligned with real enterprise environments and Okta certification paths.
+This repository showcases hands-on IAM experience aligned with real enterprise environments and Okta certification paths.
+
+Built to demonstrate practical skills for:
+- IT Support / Service Desk roles  
+- IAM Analyst roles  
+- Cloud Identity / Security roles  
+
+---
+
+## 🚀 Next Labs (In Progress)
+
+- Multi-Factor Authentication (MFA)
+- Single Sign-On (SSO)
+- Conditional Access Policies
+- Identity Monitoring & Alerts
+
+---
