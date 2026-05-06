@@ -53,6 +53,17 @@ This repository demonstrates real-world IAM scenarios including user lifecycle m
 
 ---
 
+## 🔹 Lab 5 — Password Reset & Account Recovery
+- Create test users  
+- Perform password reset workflows  
+- Simulate failed login scenarios  
+- Review authentication failures in System Logs  
+- Troubleshoot account access issues  
+
+👉 [View Lab 5](./lab-05-password-recovery)
+
+---
+
 # 🛠 Skills Demonstrated
 
 - Identity Lifecycle Management  
@@ -60,6 +71,8 @@ This repository demonstrates real-world IAM scenarios including user lifecycle m
 - Multi-Factor Authentication (MFA)  
 - Single Sign-On (SSO)  
 - Group-Based Access Management  
+- Password Recovery & Reset Workflows  
+- Authentication Troubleshooting  
 - Okta System Log Analysis  
 - User Provisioning & Deprovisioning  
 - Access Troubleshooting  
@@ -88,6 +101,7 @@ Built to demonstrate practical skills for:
 - Application Integration & Provisioning  
 - Passwordless Authentication  
 - Adaptive MFA Policies  
+- Lifecycle Automation  
 
 ---
 
@@ -96,9 +110,12 @@ Built to demonstrate practical skills for:
 All labs are built using a real Okta environment and include step-by-step documentation with screenshots to simulate real-world IAM scenarios.
 
 The labs focus on practical IAM administration tasks commonly performed in enterprise environments including:
-- User onboarding/offboarding
-- Access control management
-- MFA enforcement
-- SSO application assignments
-- Authentication troubleshooting
-- Security policy validation
+
+- User onboarding/offboarding  
+- Access control management  
+- MFA enforcement  
+- SSO application assignments  
+- Authentication troubleshooting  
+- Security policy validation  
+- Password reset & recovery workflows  
+- Identity lifecycle operations  
