@@ -2,9 +2,9 @@
 
 Hands-on Identity and Access Management (IAM) labs built using the Okta Admin Console.
 
-This repository demonstrates real-world IAM administration scenarios including user lifecycle management, authentication security, access control, Multi-Factor Authentication (MFA), Single Sign-On (SSO), password recovery, and enterprise authentication policy enforcement.
+This repository demonstrates real-world IAM administration scenarios including user lifecycle management, authentication security, access control, Multi-Factor Authentication (MFA), Single Sign-On (SSO), password recovery, authentication policies, application provisioning, and enterprise identity governance workflows.
 
-The labs are designed to simulate practical IAM tasks commonly performed in enterprise IT and security environments.
+The labs are designed to simulate practical IAM tasks commonly performed in enterprise IT, cloud identity, and security environments.
 
 ---
 
@@ -78,6 +78,20 @@ The labs are designed to simulate practical IAM tasks commonly performed in ente
 
 ---
 
+## 🔹 Lab 7 — Application Provisioning & Attribute Mapping
+- Configure enterprise application integrations
+- Assign groups to SaaS applications
+- Validate inherited application access
+- Review provisioning workflows
+- Analyze attribute synchronization mappings
+- Explore identity lifecycle management concepts
+- Review Okta-to-application profile mappings
+- Understand source-of-truth identity architecture
+
+👉 [View Lab 7](./lab-07-application-provisioning)
+
+---
+
 # 🛠 Skills Demonstrated
 
 - Identity Lifecycle Management
@@ -96,6 +110,12 @@ The labs are designed to simulate practical IAM tasks commonly performed in ente
 - Authentication Security Enforcement
 - Conditional Access Administration
 - Okta Authenticator Management
+- Application Provisioning
+- Attribute Mapping & Synchronization
+- SaaS Identity Administration
+- Identity Governance Concepts
+- Source-of-Truth Identity Management
+- Enterprise Provisioning Workflows
 
 ---
 
@@ -111,6 +131,7 @@ The labs were built to demonstrate hands-on skills relevant to:
 - IT Support / Service Desk roles
 - Security Operations & Identity Security roles
 - Microsoft Entra ID / Okta administration environments
+- Cloud IAM & SaaS identity management roles
 
 ---
 
@@ -129,6 +150,11 @@ This repository includes hands-on practice with:
 - Identity security operations
 - Enterprise access control
 - Security policy validation
+- SaaS application provisioning
+- Attribute synchronization
+- Profile mappings
+- Identity lifecycle governance
+- Centralized identity management
 
 ---
 
@@ -136,13 +162,14 @@ This repository includes hands-on practice with:
 
 - Conditional Access Policies
 - Identity Monitoring & Alerts
-- Application Integration & Provisioning
+- SCIM Provisioning
 - Passwordless Authentication
 - Adaptive MFA Policies
 - Lifecycle Automation
-- SCIM Provisioning
 - Privileged Access Management (PAM)
 - Risk-Based Authentication
+- Okta Workflows Automation
+- API Access Management
 
 ---
 
@@ -150,6 +177,13 @@ This repository includes hands-on practice with:
 
 All labs are built using a real Okta environment and include step-by-step documentation with screenshots to simulate real-world IAM administration tasks.
 
-These labs focus on practical enterprise IAM operations commonly performed by IT administrators, IAM teams, and identity security professionals.
+These labs focus on practical enterprise IAM operations commonly performed by:
 
-The goal of this repository is to demonstrate hands-on identity security experience through realistic administrative workflows and authentication security configurations.
+- IAM Analysts
+- Identity Engineers
+- Cloud IAM Administrators
+- Security Administrators
+- IT Support Engineers
+- Access Management Teams
+
+The goal of this repository is to demonstrate hands-on identity security experience through realistic administrative workflows, authentication security configurations, and enterprise provisioning operations.
