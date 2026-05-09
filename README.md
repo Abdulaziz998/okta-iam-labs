@@ -2,7 +2,7 @@
 
 Hands-on Identity and Access Management (IAM) labs built using the Okta Admin Console.
 
-This repository demonstrates real-world IAM administration scenarios including user lifecycle management, authentication security, access control, Multi-Factor Authentication (MFA), Single Sign-On (SSO), password recovery, authentication policies, application provisioning, SCIM lifecycle workflows, and enterprise identity governance operations.
+This repository demonstrates real-world IAM administration scenarios including user lifecycle management, authentication security, access control, Multi-Factor Authentication (MFA), Single Sign-On (SSO), password recovery, authentication policies, application provisioning, SCIM lifecycle workflows, adaptive authentication, and enterprise identity governance operations.
 
 The labs are designed to simulate practical IAM tasks commonly performed in enterprise IT, cloud identity, and security environments.
 
@@ -108,6 +108,22 @@ The labs are designed to simulate practical IAM tasks commonly performed in ente
 
 ---
 
+## 🔹 Lab 9 — Adaptive MFA & Risk-Based Authentication
+- Create adaptive authentication security groups
+- Configure adaptive MFA policies
+- Create authentication enforcement rules
+- Require Okta Verify MFA authentication
+- Simulate secure login workflows
+- Validate MFA enrollment prompts
+- Review authentication activity in System Logs
+- Explore risk-based authentication concepts
+- Analyze identity security operations
+- Validate enterprise authentication protections
+
+👉 [View Lab 9](./lab-09-adaptive-mfa-risk-based-authentication)
+
+---
+
 # 🛠 Skills Demonstrated
 
 - Identity Lifecycle Management
@@ -139,6 +155,11 @@ The labs are designed to simulate practical IAM tasks commonly performed in ente
 - SaaS Lifecycle Management
 - Audit Log Monitoring
 - Identity Security Operations
+- Adaptive MFA Administration
+- Risk-Based Authentication Concepts
+- Secure Authentication Workflows
+- Identity Threat Protection Concepts
+- Access Security Enforcement
 
 ---
 
@@ -184,6 +205,11 @@ This repository includes hands-on practice with:
 - Access revocation workflows
 - Identity auditing & monitoring
 - Lifecycle automation concepts
+- Adaptive Authentication
+- Risk-Based Authentication
+- Secure Authentication Enforcement
+- Identity Threat Protection
+- Authentication Event Monitoring
 
 ---
 
@@ -192,10 +218,8 @@ This repository includes hands-on practice with:
 - Conditional Access Policies
 - Identity Monitoring & Alerts
 - Passwordless Authentication
-- Adaptive MFA Policies
 - Lifecycle Automation
 - Privileged Access Management (PAM)
-- Risk-Based Authentication
 - Okta Workflows Automation
 - API Access Management
 - Identity Governance Administration (IGA)
